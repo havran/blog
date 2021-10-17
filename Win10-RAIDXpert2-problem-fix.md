@@ -29,7 +29,7 @@ back to <RAID>, I always get **BSOD** (_Blue screen of death_).
 I try many attempts to fix that. **RAIDXpert2** software update, install latest version 
 Windows 10,  over existing installation. Nothing helps...
 
-##Solution
+## Solution
 
 After few attempts I found simple solution with few steps:
 
