@@ -23,7 +23,7 @@ disk **_SATA Controller(s)_** settings from **RAID** to **AHCI**.
 
 When Windows 10 boots to this configuration, it's effectively forget how to 
 initialize **RAID** drivers. When I go to **BIOS** again and set **_SATA Controller(s)_** 
-back to <RAID>, I always get **BSOD** (_Blue screen of death_).
+back to **RAID**, I always get **BSOD** (_Blue screen of death_).
 
 
 I try many attempts to fix that. **RAIDXpert2** software update, install latest version 
